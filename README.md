@@ -1,7 +1,7 @@
 
 ## bootstrap-bower-tooltip
 
-test3
+test4
 This is the bower repository for the tooltip component of of the [angular-ui/bootstrap project](https://github.com/angular-ui/bootstrap) project.
 
 ### Usage
