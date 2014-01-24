@@ -1,0 +1,13 @@
+{
+  "name": "bower-bootstrap-tooltip",
+  "license": "MIT",
+  "version": "0.11.0-SNAPSHOT",
+  "author": {
+    "name": "https://github.com/angular-ui/bootstrap/graphs/contributors"
+  },
+  "dependencies": {
+    "bower-bootstrap-position": "*",
+    "bower-bootstrap-bindHtml": "*"
+  },
+  "main": "ui-tooltip-tpls.js"
+}
