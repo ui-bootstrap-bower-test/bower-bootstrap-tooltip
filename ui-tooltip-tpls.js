@@ -1,7 +1,7 @@
 /*
  * angular-ui-bootstrap
  * http://angular-ui.github.io/bootstrap/
- * Version: 0.11.0-SNAPSHOT - 2014-01-30
+ * Version: 0.11.0 - 2014-01-30
  * License: MIT
  */
 
